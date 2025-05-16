@@ -1,6 +1,6 @@
 # 🌐 My Digital Resume
 
-Welcome to my digital resume! This project showcases my technical skills, hands-on labs, certifications, and learning journey in Cloud, DevOps, and IT Infrastructure.
+Welcome to my digital resume! This repoistory showcases my technical skills, hands-on labs, certifications, and learning journey in Cloud, DevOps, and IT Infrastructure.
 
 ## 🧑‍💻 About Me
 
