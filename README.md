@@ -52,4 +52,4 @@ I am an aspiring Cloud & DevOps Engineer with a strong background in IT systems 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fiazshafqat/digital-resume.git
+   git clone https://github.com/Fiazshafqat/Resume.git
